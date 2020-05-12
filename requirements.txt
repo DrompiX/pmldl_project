@@ -1,0 +1,11 @@
+scikit-learn==0.20.2
+torch==1.2.0
+numpy==1.18.1
+numpydoc==0.8.0
+scipy==1.2.1
+pandas==0.24.1
+matplotlib==3.0.2
+tensorflow==2.0.0
+Keras==2.3.0
+beautifulsoup4==4.7.1
+easydict==1.9
